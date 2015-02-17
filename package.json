@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-bower",
+  "version": "1.0.0",
+  "description": "fork of bootstrap-bower",
+  "main": "ui-bootstrap-tpls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indicee/bootstrap-bower.git"
+  },
+  "author": "Dane Macaulay <dane.macaulay@gmail.com> (https://github.com/danemacaulay)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indicee/bootstrap-bower/issues"
+  },
+  "homepage": "https://github.com/indicee/bootstrap-bower"
+}
